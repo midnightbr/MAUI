@@ -1,0 +1,1 @@
+C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\MyFirstMauiApp.csproj;x64
