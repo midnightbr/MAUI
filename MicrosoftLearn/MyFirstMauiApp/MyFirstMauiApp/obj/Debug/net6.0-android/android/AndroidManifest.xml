@@ -9,6 +9,12 @@
   <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="31" />
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
   <uses-permission android:name="android.permission.INTERNET" />
+  <queries>
+    <intent>
+      <action android:name="android.intent.action.DIAL" />
+      <data android:scheme="tel" />
+    </intent>
+  </queries>
   <application android:name="crc64ea481263f3d0927b.MainApplication" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/appicon" android:label="MyFirstMauiApp" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true">
     <activity android:name="crc64ea481263f3d0927b.MainActivity" android:configChanges="density|orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:exported="true" android:theme="@style/Maui.SplashTheme">
       <intent-filter>
