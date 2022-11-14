@@ -1,3 +1,4 @@
+C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-debugger-static.a
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-ios\iossimulator-x64\MyFirstMauiApp.runtimeconfig.json
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-ios\iossimulator-x64\MyFirstMauiApp.dll
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-ios\iossimulator-x64\MyFirstMauiApp.pdb
@@ -196,7 +197,6 @@ C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiAp
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-ios\iossimulator-x64\libicudata.a
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-ios\iossimulator-x64\libicui18n.a
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-ios\iossimulator-x64\libicuuc.a
-C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-debugger-static.a
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-debugger.dylib
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
@@ -213,6 +213,7 @@ C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiAp
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net6.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net6.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net6.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net6.0-ios\iossimulator-x64\mauisplash.inputs
@@ -263,4 +264,3 @@ C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiAp
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net6.0-ios\iossimulator-x64\MyFirstMauiApp.pdb
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net6.0-ios\iossimulator-x64\MyFirstMauiApp.genruntimeconfig.cache
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net6.0-ios\iossimulator-x64\ref\MyFirstMauiApp.dll
-C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net6.0-ios\iossimulator-x64\build-signature\signature

@@ -1,3 +1,4 @@
+C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\MyFirstMauiApp.runtimeconfig.json
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\MyFirstMauiApp.dll
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\MyFirstMauiApp.pdb
@@ -179,7 +180,6 @@ C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiAp
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
-C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\icudt.dat
 C:\Users\marco\Documents\GitHub\MAUI\MicrosoftLearn\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\icudt_CJK.dat
