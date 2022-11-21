@@ -2,6 +2,8 @@
 
 public partial class MainPage : ContentPage
 {
+    public const double MyFontSize = 15;
+
 	public MainPage()
 	{
 		InitializeComponent();
@@ -46,5 +48,21 @@ public partial class MainPage : ContentPage
                 await DisplayAlert("Unable to dial", "Phone dialing failed.", "OK");
             }
         }
+    }
+}
+
+
+/**
+ * O objetivo das extensões de marcação personalizadas é permitir que você lide com situações mais complexas, em vez do simples caso estático.
+ * Por exemplo, talvez seja necessário alterar dinamicamente o tamanho da fonte com base no fator de forma do dispositivo.
+ */
+[ContentProperty("Member")]
+public class StaticExtension : IMarkupExtension
+{
+    public string Member { get; set; }
+
+    public object ProvideValue(IServiceProvider serviceProvider)
+    {
+        return MainPage.MyFontSize;
     }
 }
