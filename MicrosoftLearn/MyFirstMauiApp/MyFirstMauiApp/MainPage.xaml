@@ -6,9 +6,31 @@
 
     <ScrollView>
 
-        <VerticalStackLayout Spacing="15" Padding="20">
+        <VerticalStackLayout Spacing="15">
 
-            <Label Text="Enter a Phoneword" FontSize="{x:Static Member=mycode:MainPage.MyFontSize}"/> <!-- Utilizando a classe StaticExtension -->
+            <!-- Utilizando marcação OnPlatform -->
+            <VerticalStackLayout.Padding>
+                <OnPlatform x:TypeArguments="Thickness">
+                    <On Platform="iOs" Value="30, 60, 30, 30"/>
+                    <On Platform="Android" Value="30"/>
+                    <On Platform="WinUI" Value="30"/>
+                </OnPlatform>
+            </VerticalStackLayout.Padding>
+            <!-- A extensão de marcação OnPlatform é genérica; é preciso um parâmetro de tipo.
+                 O tipo especificado pelo atributo TypeArguments garante que o tipo correto de extensão seja usado. -->
+            <VerticalStackLayout.BackgroundColor>
+                <OnPlatform x:TypeArguments="Color">
+                    <On Platform="iOS" Value="Silver"/>
+                    <On Platform="Android" Value="Black"/>
+                    <On Platform="WinUI" Value="Blue"/>
+                </OnPlatform>
+            </VerticalStackLayout.BackgroundColor>
+            <!-- A sintaxe usado nos exemplos acima são detalhadas, mas caso queira, existe
+                 uma sintaxe mais reduzida. Exemplo dela vai estar disponivel na tela de login -->
+
+            <Label Text="Enter a Phoneword" FontSize="{x:Static Member=mycode:MainPage.MyFontSize}"/>
+
+            <!-- Utilizando a classe StaticExtension -->
             <Entry x:Name="PhoneNumberText" Text="9-3580-NETMAUI"/>
             <Button x:Name="TranslateButton" Text="Translate" Clicked="OnTranslate"/>
             <Button x:Name="CallButton" Text="Call" IsEnabled="False" Clicked="OnCall"></Button>

@@ -10,6 +10,12 @@ public partial class Login : ContentPage
     {
         InitializeComponent();
         LoginIn.Clicked += LoginButton_Clicked;
+
+        // Usando Device Class
+        MyStackLayout.Padding =
+            DeviceInfo.Platform == DevicePlatform.iOS
+                ? new Thickness(30, 60, 30, 30)
+                : new Thickness(30);
     }
 
     private string userName;
@@ -19,8 +25,8 @@ public partial class Login : ContentPage
     {
         Debug.WriteLine("Clicked!");
     }
-}
 
+}
 
 /**
  * O campoMyFontSizedeve ser um membro da classeMainPagepara permitir que ele seja referenciado no método ProvideValue à sua maneira.

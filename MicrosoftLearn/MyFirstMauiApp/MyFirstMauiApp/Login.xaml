@@ -6,7 +6,11 @@
              xmlns:mycode="clr-namespace:MyFirstMauiApp"
              BackgroundColor="#512bda">
     
-    <VerticalStackLayout Margin="15" Padding="30, 60, 30, 30">
+    <VerticalStackLayout x:Name="MyStackLayout" 
+                         BackgroundColor="{OnPlatform WinUI=Blue, Android=Black, iOS=Silver}"
+                         Margin="15" Padding="30, 60, 30, 30">
+        <!-- Sintaxe reduzida OnPlatform -> BackgroundColor="{OnPlatform WinUI=Blue, Android=Black, iOS=Silver}" -->
+
         <Label Text="Please log in" FontSize="30" TextColor="AliceBlue" Margin="15"/>
         <Label Text="Username" TextColor="White" />
         <Entry x:Name="UserName"/>
